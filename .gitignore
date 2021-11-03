@@ -15,6 +15,5 @@ yarn-error.log
 /.vscode
 /_ide_helper.php
 
-/public/js
-/public/css
+
 /public/mix-manifest.json
